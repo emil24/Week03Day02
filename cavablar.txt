@@ -1,0 +1,32 @@
+1.evvelce tapshiriq verilen zaman onun vereqde cizma qarasini aparmaq
+
+2.sonra html ve css fayli acmaq
+
+3. demek olarki qisaltmalardan daha chox istifade etmeliyik mes: font: size,family,...
+
+4. class-lar verilen zaman diqqet olunmalidirki adlarina sonradan anlashilmamazliq olmasin
+
+5.Commentlerden istifade etmek: en pis cehetim hec istifade elemirem. ama lazimlidi.
+
+6.Tekrar istifade az etmek.
+
+7.Kodlarin yazilma ardicilliqina diqqet yetirilmelidir.
+
+8.faylin hecmi mumkun oldugu qeder az olmalidir.
+
+9.shekil logo iconlar verilen zaman az hecmli bir sheylerden istifade etmeliyik
+
+10. reset ve norma css lerinden istifade edede bilerik.
+
+
+2....
+1.Open Sans
+2.Roboto Slab
+3.Source Sans Pro
+4.Raleway
+5.Lora
+6.Ubuntu
+7.Arimo
+8.PT Sans Narrow
+9.Dosis
+10.Bitter
